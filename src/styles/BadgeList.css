@@ -1,0 +1,39 @@
+.perfiles{
+    height: 90px;
+    width: 90px;
+ 
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 0px solid #000000;
+    
+}
+.contenido{
+    background: rgb(240, 238, 238);
+    background: -moz-linear-gradient(left, rgba(156,156,156,1) 0%, rgba(173,173,173,0.8) 30%, rgba(148,148,148,0.67) 50%, rgba(143,143,143,0.67) 51%, rgba(143,143,143,0.55) 69%, rgba(143,143,143,0.55) 88%);
+    -webkit-box-shadow: -8px 12px 5px 0px rgba(0,0,0,0.11);
+    -moz-box-shadow: -8px 12px 5px 0px rgba(0,0,0,0.11);
+    box-shadow: -8px 12px 5px 0px rgba(0,0,0,0.11);
+    height: 120px;
+}
+
+
+.logito{
+    width: 35px;
+    height: 35px;
+    
+}
+
+
+.nombre{
+    font-size: 20px;
+    margin: 0px;
+}
+.twitt{
+    color: #00acee;
+    font-size: 16px;
+    margin:0px;
+}
+.trabajo{
+    margin:0px;
+}
