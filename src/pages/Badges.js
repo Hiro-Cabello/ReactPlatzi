@@ -18,6 +18,7 @@ class Badges extends React.Component{
           twitter: "SJohanson23",
           avatarUrl:"https://larepublica.pe/resizer/V-Xv3L0tagHXK7CD0LlxlCsmNeA=/1250x735/top/smart/arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/R6CLNBX3DBD5BHC4CMVSS5NRH4.jpg"  },
         {
+            
           id: "d00d3614-101a-44ca-b6c2-0be075aeed3d",
           firstName: "Elizabeth",
           lastName: "Olsen",
